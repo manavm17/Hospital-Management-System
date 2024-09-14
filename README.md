@@ -1,4 +1,4 @@
-MediShare Connect - Medicine Donation Platform | React.js, Node.js, Express, MongoDB
+**MediShare Connect - Medicine Donation Platform | React.js, Node.js, Express, MongoDB**
 
 • Deployed a robust web platform connecting users who wish to donate unused medicines with NGOs in need.
 
